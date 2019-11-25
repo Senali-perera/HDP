@@ -1,2 +1,2 @@
 # HDP
-This is a Quality Engineering Project.
+This is Quality Engineering Project.
